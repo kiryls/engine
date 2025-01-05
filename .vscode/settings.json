@@ -1,5 +1,5 @@
 {
-    "C_Cpp.clang_format_style": "{BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0, NamespaceIndentation: All}",
+    "C_Cpp.clang_format_style": "{BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0, NamespaceIndentation: All, DerivePointerAlignment: false}",
     "C_Cpp.vcFormat.newLine.beforeOpenBrace.block": "sameLine",
     "C_Cpp.vcFormat.newLine.beforeOpenBrace.type": "sameLine",
     "C_Cpp.vcFormat.newLine.beforeOpenBrace.function": "sameLine",
@@ -12,17 +12,17 @@
     "todohighlight.keywords": [
         {
             "text": "#todo",
-            "color": "#cc241d",
+            "color": "#fb4934",
             "backgroundColor": "rgba(0,0,0,0)"
         },
         {
             "text": "#hack",
-            "color": "#d65d0e",
+            "color": "#fe8019",
             "backgroundColor": "rgba(0,0,0,0)"
         },
         {
             "text": "#note",
-            "color": "#689d6a",
+            "color": "#b8bb26",
             "backgroundColor": "rgba(0,0,0,0)"
         }
     ],
@@ -34,6 +34,7 @@
     },
     "files.associations": {
         "*.json": "jsonc",
+        ".clang-format": "yaml",
         "test.h": "c",
         "vulkan.h": "c",
         "vulkan_core.h": "c",
@@ -43,5 +44,6 @@
         "windowsx.h": "c",
         "vulkan_platform.h": "c",
         "renderer_frontend.h": "c",
+        "windows.h": "c"
     },
 }

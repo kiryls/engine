@@ -53,6 +53,7 @@
         "windowsx.h": "c",
         "vulkan_platform.h": "c",
         "renderer_frontend.h": "c",
-        "windows.h": "c"
+        "windows.h": "c",
+        "kmemory.h": "c"
     },
 }

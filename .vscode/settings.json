@@ -12,17 +12,17 @@
     "todohighlight.keywords": [
         {
             "text": "#todo",
-            "color": "red",
+            "color": "#cc241d",
             "backgroundColor": "rgba(0,0,0,0)"
         },
         {
             "text": "#hack",
-            "color": "#ff6600",
+            "color": "#d65d0e",
             "backgroundColor": "rgba(0,0,0,0)"
         },
         {
             "text": "#note",
-            "color": "green",
+            "color": "#689d6a",
             "backgroundColor": "rgba(0,0,0,0)"
         }
     ],

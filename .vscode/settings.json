@@ -12,18 +12,27 @@
     "todohighlight.keywords": [
         {
             "text": "#todo",
-            "color": "#fb4934",
-            "backgroundColor": "rgba(0,0,0,0)"
+            // "color": "#fb4934",
+            // "backgroundColor": "rgba(0,0,0,0)"
+            "color": "#282828",
+            "backgroundColor": "#fb4934",
+            // "overviewRulerColor": "#fb4934"
         },
         {
             "text": "#hack",
-            "color": "#fe8019",
-            "backgroundColor": "rgba(0,0,0,0)"
+            // "color": "#fe8019",
+            // "backgroundColor": "rgba(0,0,0,0)"
+            "color": "#282828",
+            "backgroundColor": "#fe8019",
+            // "overviewRulerColor": "#fe8019"
         },
         {
             "text": "#note",
-            "color": "#b8bb26",
-            "backgroundColor": "rgba(0,0,0,0)"
+            // "color": "#b8bb26",
+            // "backgroundColor": "rgba(0,0,0,0)"
+            "color": "#282828",
+            "backgroundColor": "#b8bb26",
+            // "overviewRulerColor": "#b8bb26"
         }
     ],
     "todohighlight.defaultStyle": {
